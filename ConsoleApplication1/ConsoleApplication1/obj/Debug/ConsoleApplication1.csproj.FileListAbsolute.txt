@@ -1,0 +1,11 @@
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.config
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.dll
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.xml
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
